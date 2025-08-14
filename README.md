@@ -21,10 +21,6 @@ Fique a vontade para acompanhar minha trajetória vendo meus projetos e atividad
  </a> 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
 </a></p>      
-## Estatísticas do GitHub 📊
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=annabialeme&theme=omni&show_icons=true&hide_border=false&count_private=true)
-
 
 ## Linguagens Mais Utilizadas
 
