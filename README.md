@@ -1,9 +1,17 @@
 ## 👋🏻 Olá, seja bem-vindo(a)!
 
-Sou a Anna Leme, estudante de Desenvolvimento de Sistemas no SENAI Valinhos.
-Aqui você acompanha minha jornada, aprendizados e evolução diária desde o começo do curso. ✨
 
-Fique a vontade para acompanhar minha trajetória vendo meus projetos e atividades! 🤍
+<p align="center">
+  <img src="https://i.pinimg.com/originals/51/4f/3f/514f3fccb71047d780be491c435a79e1.gif" alt="Banner pc" width="100%"/>
+</p>
+
+👩‍💻 Anna Leme | Estudante de Desenvolvimento de Sistemas – SENAI Valinhos
+
+Sou estudante de Desenvolvimento de Sistemas e estou registrando aqui minha trajetória desde o começo do curso. Cada projeto, atividade e desafio faz parte do meu aprendizado e evolução diária. ✨
+
+Criei este espaço para compartilhar meu progresso de forma autêntica e acompanhar minha própria transformação ao longo do tempo.
+
+🤍 Sinta-se à vontade para explorar meus repositórios e acompanhar minha jornada!
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <p align="left">
