@@ -35,14 +35,4 @@ Criei este espaço para compartilhar meu progresso de forma autêntica e acompan
 ![Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=annabialeme&theme=omni&show_icons=true&hide_border=false&layout=compact) 
 
 
-### 📈 Estatísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=annabialeme&show_icons=true&theme=radical" alt="annabialeme's GitHub stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annabialeme&layout=compact&theme=radical"/>
-</p>
-
----
-
 </div>
